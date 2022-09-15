@@ -1,1 +1,3 @@
-console.log("my command line");
+#! /usr/bin/env node
+
+console.log("my command line 2");
